@@ -225,12 +225,12 @@ We will merge your responsive template from Step 1 to the code we just generated
 function App() {
   return (
     <>
-      <div class="header">
-        <p class="garlaxy-title text-centered">GARLAXY</p>
+      <div className="header">
+        <p className="garlaxy-title text-centered">GARLAXY</p>
       </div>
-      <div class="content">...</div>
-      <div class="footer">
-        <p class="text-centered">
+      <div className="content">...</div>
+      <div className="footer">
+        <p className="text-centered">
           {" "}
           Besoin d'aide? <a href="mailto:groupe13@arla-sigl.fr">
             Contactez-nous
