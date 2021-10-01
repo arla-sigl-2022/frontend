@@ -32,7 +32,7 @@ To install `nvm`, follow instructions in the README of the project: https://gith
 Once `nvm` is install:
 
 - Create a file `.nvmrc` with `v16` inside
-- Install node v14 using `nvm`: `nvm install v16`
+- Install node v16 using `nvm`: `nvm install v16`
 
 Then, everytime you work on your project, you can type `nvm use` command, and it will switch you to the version inside the `.nvmrc` file.
 
