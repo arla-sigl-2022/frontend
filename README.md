@@ -351,7 +351,7 @@ cp .gitignore .dockerignore
 ```sh
 # from frontend/
 docker build -t garlaxy:react .
-docker run -p 80:8090 garlaxy:react
+docker run -p 8090:80 garlaxy:react
 ```
 
 Check out your app on [localhost:8090](http://localhost:8090).
